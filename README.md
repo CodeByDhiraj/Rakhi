@@ -1,6 +1,6 @@
 <!-- Cover Banner -->
 <p align="center">
-  <img src="images/sister.jpg" alt="Rakhi Web Card Banner" width="75%" />
+  <img src="images/sister.jpg" alt="Rakhi Web Card Banner" width="20%" />
 </p>
 
 <h1 align="center">🎀 Rakhi — Interactive Web Card</h1>
@@ -8,7 +8,7 @@
 <p align="center">
   Tap-and-hold unlock, rakhi-tying SVG animation, fireworks, confetti, petals, music & a smooth memories slider (mem1–mem6).  
   <br />
-  <a href="https://Netfrix.site/Rakhi" target="_blank"><strong>🌐 View Live Demo →</strong></a>
+  <a href="https://rakhi-sigma.vercel.app" target="_blank"><strong>🌐 View Live Demo →</strong></a>
 </p>
 
 <p align="center">
@@ -120,8 +120,7 @@ Live at: https://codebydhiraj.github.io/Rakhi
 ``` WhatsApp / Telegram text:
 Rakhi surprise for you 💝
 Tap & hold for 2 sec!
-
-https://codebydhiraj.github.io/Rakhi
+https://rakhi-sigma.vercel.app
 ```
 
 Developer
